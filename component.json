@@ -1,0 +1,13 @@
+{
+  "name": "watch",
+  "repo": "brynbellomy/watch",
+  "description": "Object.watch shim for binding callbacks to changes on objects",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ]
+}
