@@ -1,18 +1,8 @@
 {
-	"name": "watch",
-	"version": "0.0.1",
-	"description": "Object.watch polyfill",
-	"main": "index.js",
-	"scripts": {
-		"test": "echo \"Error: no test specified\" && exit 1"
-	},
-	"repository": {
-		"type": "git",
-		"url": "git://github.com/brynbellomy/watch"
-	},
-	"author": "bryn austin bellomy <bryn.bellomy@gmail.com>",
-	"license": "MIT",
-	"devDependencies": {
-		"coffee-script": "1.4.x"
-	}
+  "name": "brynbellomy-watch",
+  "description": "Object.watch shim for binding callbacks to changes on objects",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "license": "MIT"
 }
